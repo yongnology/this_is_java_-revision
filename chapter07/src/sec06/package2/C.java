@@ -1,7 +1,5 @@
 package sec06.package2;
 
-import sec06.package1.A;
-
 public class C {
 	// 五社球 識情
 	public void method() {
