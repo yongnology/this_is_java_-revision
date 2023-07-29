@@ -1,0 +1,7 @@
+현재 경로로 도스창에서 들어와서
+java -classpath C:\ jar파일 경로\my_lib.jar;. 실행할 java
+
+// 실행결과
+A-method 실행
+B-method 실행
+
